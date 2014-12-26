@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-this is me repository
+hi, i'm going to learn how to use github))
+
+
